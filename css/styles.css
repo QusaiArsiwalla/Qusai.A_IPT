@@ -25,7 +25,7 @@ h1 {
     text-transform: capitalize;
 }
 h2 {
-    font-family: actor;
+    font-family: antic-slab;
     font-style: normal;
     font-weight: 400;
     font-size: 2em;
@@ -34,8 +34,10 @@ h2 {
     -webkit-box-shadow: 0px 0px #FFFFFF;
     box-shadow: 0px 0px #FFFFFF;
     top: 0px;
-    padding-bottom: px;
+    padding-bottom: 3px;
     color: #000000;
+    padding-top: 3px;
+    padding-left: 0px;
 }
 footer {
 	font-size: small;
@@ -67,19 +69,22 @@ footer {
     width: 90%;
     float: right;
     margin-right: 5%;
-    margin-top: 30px;
+    margin-top: 100px;
     margin-left: 5%;
     padding-left: 2%;
     padding-right: 2%;
     padding-top: 2%;
     padding-bottom: 2%;
-    background-image: -webkit-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-    background-image: -moz-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-    background-image: -o-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-    background-image: linear-gradient(180deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-    border-top-right-radius: 25px;
+    background-image: -webkit-linear-gradient(308deg,rgba(206,206,206,1.00) 0%,rgba(255,255,255,0.25) 22.14%);
+    background-image: -moz-linear-gradient(308deg,rgba(206,206,206,1.00) 0%,rgba(255,255,255,0.25) 22.14%);
+    background-image: -o-linear-gradient(308deg,rgba(206,206,206,1.00) 0%,rgba(255,255,255,0.25) 22.14%);
+    background-image: linear-gradient(142deg,rgba(206,206,206,1.00) 0%,rgba(255,255,255,0.25) 22.14%);
+    border-top-right-radius: 0px;
     margin-bottom: 100px;
     font-variant: normal;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
 }
 header {
 	text-align: center;
