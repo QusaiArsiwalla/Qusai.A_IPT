@@ -4294,6 +4294,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     background-color: #000000;
     color: #FFFFFF;
     text-shadow: 0px 0px #FFFFFF;
+    font-family: actor;
+    font-style: normal;
+    font-weight: 400;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
