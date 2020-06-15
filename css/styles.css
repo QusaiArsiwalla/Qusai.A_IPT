@@ -135,6 +135,11 @@ nav {
 .formStyle {
 	width: 100%;
 }
+.item.active .carousel-caption p {
+}
+.caption1 {
+    color: #000000;
+}
 
 @media (max-width: 650px){
 .asideLeft {
